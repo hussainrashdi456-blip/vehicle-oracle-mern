@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+venv/
+
+# Build folders
+dist/
+build/
+
+# Environment variables
+.env
+.env.local
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Uploads (user images)
+uploads/
+
+# Logs
+*.log
