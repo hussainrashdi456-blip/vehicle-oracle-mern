@@ -1,1 +1,1 @@
-fastapi, uvicorn, pandas, numpy, xgboost, scikit-learn, joblib, python-multipart, ultralytics, shap
+
